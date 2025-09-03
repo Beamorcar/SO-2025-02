@@ -1,4 +1,4 @@
-# Trabalho	1	de	SO	2025-02	- Grupo	1b
+# Trabalho	1	de	SO	2025-02	- Grupo	10
 ## Integrantes: Beatriz Morales de Carvalho e Éder dos Santos Antônio do Nascimento
 ---
 ### - Descrição:
